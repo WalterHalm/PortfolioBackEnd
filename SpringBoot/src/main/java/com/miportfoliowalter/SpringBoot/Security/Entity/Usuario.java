@@ -3,6 +3,7 @@ package com.miportfoliowalter.SpringBoot.Security.Entity;
 
 
 
+
 import java.util.HashSet;
 import java.util.Set;
 import javax.persistence.Column;
@@ -15,6 +16,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.validation.constraints.NotNull;
+
 
 
 @Entity
